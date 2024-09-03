@@ -28,3 +28,6 @@ print("Your favorite animal is a " + favorite_animal)
 
 
 # lets do some practice 
+
+#Lets go to class
+#Ap computer science
